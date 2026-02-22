@@ -1,1 +1,1 @@
-# RISC-V-Single-Cycle-Processor
+# RISC-V-Pipeline-Processor
